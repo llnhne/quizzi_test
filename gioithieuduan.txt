@@ -1,0 +1,7 @@
+Dự Án Hệ thống Quiz
+-Phía Người Dùng:
+	+Đăng nhập/Đăng kí/Quên Mật Khẩu/Cập Nhật tk/Đăng xuất
+	+Làm bài Thi qua các đề
+	+Xem kết quả thi
+	+Bảng xếp hạng
+	+Liên hệ
